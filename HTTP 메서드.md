@@ -1,4 +1,0 @@
-# Get
-# Post
-# Put
-# Delete
