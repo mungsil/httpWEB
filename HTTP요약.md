@@ -30,7 +30,7 @@
 
   - method(HTTP 메서드) : GET(=조회)
   
-  - request-targer(요청 대상) : /search?q=hello&hl=ko
+  - request-target(요청 대상) : /search?q=hello&hl=ko
    
   - HTTP version : HTTP/1.1
 
@@ -42,7 +42,7 @@
 - GET은 리소스를 조회하고, POST는 요청 내역을 처리한다.
 
 
-> ### request-targer(요청 대상)
+> ### request-target(요청 대상)
 
 - absolute-path[?query] (절대경로[?쿼리])
 
